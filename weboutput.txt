@@ -1,0 +1,16 @@
+Name   POCO M3 (Cool Blue, 64 GB)
+Variant   64 GB
+Price   12999
+----------------------------------------
+Name   Redmi 9 Prime (Space Blue, 64 GB)
+Variant   64 GB
+Price   11999
+----------------------------------------
+Name   POCO M2 (Slate Blue, 64 GB)
+Variant   64 GB
+Price   12999
+----------------------------------------
+Name   realme Narzo 30A (Laser Black, 32 GB)
+Variant   32 GB
+Price   9999
+----------------------------------------
